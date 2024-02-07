@@ -12,16 +12,31 @@
   - [ ] IoC Container
   - [ ] WebFlux
   - [ ] Spring Bean
+  - [ ] POJO
+  - [ ] Filter, Interceptor
+---
+### Design Pattern
+- [ ] Singleton Pattern
+- [ ] Builder Pattern
+- [ ] Factory Pattern
+- [ ] Facade Pattern
+- [ ] Bridge Pattern
+- [ ] Strategy Pattern
+- [ ] Observer Pattern
 ---
 ### DB
 - [ ] DBMS, RDBMS
 - [ ] SQL
 - [ ] RDB
-- [ ] NoSQL
+- [ ] NoSQL (+Redis)
+- [ ] Integrity
 - [ ] Trigger
 - [ ] Join
 - [ ] Index
 - [ ] Normalization
+- [ ] Transaction
+- [ ] Elastic Search
+- [ ] CAP
 ---
 ### OS (순서 무관)
 - [ ] Process
@@ -37,14 +52,32 @@
 - [ ] Scheduling
 - [ ] Polling, Interrupt
 ---
-### CS
+### Network
 - [x] HTTP/HTTPS (+SSL/TLS)
 - [ ] CDN
 - [ ] Proxy
+- [ ] OSI 7
+- [ ] TCP/IP 4
+- [ ] HTTP Method (+REST)
+- [ ] WAS
 ---
 ### Language
 - Java
+  - [ ] JVM
+  - [ ] GC
+  - [ ] Collection
+  - [ ] Generic
+  - [ ] SOLID
+  - [ ] Identity, Equality
+  - [ ] Tight Coupling, Loose Coupling
+  - [ ] Interface
 - Kotlin
+  - [ ] Null Safety
+  - [ ] val/var/const
+  - [ ] Coroutines
+  - [ ] Lateinit, Lazy Initialisation
+  - [ ] Scope Functions
+  - 
 - TypeScript
 ---
 ### Book
