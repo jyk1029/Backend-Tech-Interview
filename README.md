@@ -54,7 +54,7 @@
 ---
 ### Network
 - [x] HTTP/HTTPS (+SSL/TLS)
-- [ ] CDN
+- [x] CDN
 - [ ] Proxy
 - [ ] OSI 7
 - [ ] TCP/IP 4
