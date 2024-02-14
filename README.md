@@ -60,6 +60,8 @@
 - [ ] TCP/IP 4
 - [ ] HTTP Method (+REST)
 - [ ] WAS
+- [ ] Cache/Caching
+- [ ] Cookie/Session/JWT
 ---
 ### Language
 - Java
