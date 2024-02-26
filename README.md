@@ -38,7 +38,7 @@
 - [ ] Elastic Search
 - [ ] CAP
 ---
-### OS (순서 무관)
+### OS
 - [ ] Process
 - [ ] Thread
 - [ ] DeadLock
