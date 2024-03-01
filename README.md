@@ -1,6 +1,6 @@
 # Summary Plan
 ### 취업을 향한 끝없는 여정
-- `기술 면접 준비` (CS, DB, Language, Framework, CodingTest... Etc)
+- `기술 면접 공부` (CS, DB, Language, Framework, CodingTest... etc.)
 ---
 ### Framework
 - Spring
@@ -79,8 +79,10 @@
   - [ ] Coroutines
   - [ ] Lateinit, Lazy Initialisation
   - [ ] Scope Functions
-  - 
 - TypeScript
+---
+### Coding Test(Algorithm)
+- [ ] Data Structure
 ---
 ### Book
 - 토비의 스프링 3.1
