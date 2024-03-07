@@ -4,7 +4,7 @@
 ---
 ### Framework
 - Spring
-  - [ ] JPA
+  - [x] JPA
   - [ ] ORM
   - [ ] MVC
   - [ ] Security
