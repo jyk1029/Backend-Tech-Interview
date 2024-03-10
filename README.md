@@ -5,7 +5,6 @@
 ### Framework
 - Spring
   - [x] JPA
-  - [ ] ORM
   - [ ] MVC
   - [ ] Security
   - [ ] WebSocket
@@ -25,6 +24,7 @@
 - [ ] Observer Pattern
 ---
 ### DB
+- [x] ORM
 - [ ] DBMS, RDBMS
 - [ ] SQL
 - [ ] RDB
