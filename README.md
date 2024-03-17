@@ -5,6 +5,7 @@
 ### Framework
 - Spring
   - [x] JPA
+  - [x] Containerless
   - [ ] MVC
   - [ ] Security
   - [ ] WebSocket
