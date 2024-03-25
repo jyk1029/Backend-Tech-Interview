@@ -6,7 +6,7 @@
 - Spring
   - [x] JPA
   - [x] Containerless
-  - [ ] MVC
+  - [x] MVC
   - [ ] Security
   - [ ] WebSocket
   - [ ] IoC Container
