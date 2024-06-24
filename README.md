@@ -9,7 +9,7 @@
   - [x] MVC
   - [ ] Security
   - [ ] WebSocket
-  - [ ] IoC Container
+  - [ ] IoC Container, DI
   - [ ] WebFlux
   - [ ] Spring Bean
   - [ ] POJO
